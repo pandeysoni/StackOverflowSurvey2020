@@ -7,9 +7,9 @@
 ## Project Overview -
 I have used Stack Overflow 2020 Survey data and these are the business question -
 
-* What most Langugaes has been worked all over the world?
+* What most Languages has been worked all over the world?
 * What are the top 10 countries who took this survey?
-* What are the most Langugae worked in India?
+* What are the most Languages worked in India?
 
 You can find the source code in root directory by this filename **StackOverflowSurvey.ipynb**.
 
