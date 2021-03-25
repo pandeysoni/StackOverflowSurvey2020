@@ -15,9 +15,9 @@ You can find the source code in root directory by this filename **StackOverflowS
 
 ## Results -
 
-Please look at the (medium blog post)[https://medium.com/p/4fb247897707] for Graphical view presentation.
+Please look at the [medium blog post](https://pandeysoni.medium.com/stack-overflow-survey-data-2020-4fb247897707) for Graphical view presentation.
 
 ## Reference -
 
-Stackoverflow Survey Data 2020 (link)[https://insights.stackoverflow.com/survey]
+Stackoverflow Survey Data 2020 [link](https://insights.stackoverflow.com/survey)
 
